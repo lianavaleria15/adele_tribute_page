@@ -2,6 +2,11 @@
 
 An app that celebrates the singer Adele, built using HTML and CSS.
 
+## Link to live application
+
+Click [here](https://lianavaleria15.github.io/adele_tribute_page/) to view the live application.
+
+
 ## User stories
 
 1. Your tribute page should have `main` element with a corresponding `id` of `main`, which contains all other elements.
@@ -21,3 +26,7 @@ An app that celebrates the singer Adele, built using HTML and CSS.
 8. Your `#image` should use `max-width` and `height` properties to resize responsively, relative to the width of its parent element, without exceeding its original size.
 
 9. Your `img` element should be centered within its parent element.
+
+## Screenshots
+
+![adele-tribute-page-live-application](./images/adele-webpage.png)
